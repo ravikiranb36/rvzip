@@ -1,0 +1,8 @@
+README.md
+setup.py
+rvzip/__init__.py
+rvzip/rvzip.py
+rvzip.egg-info/PKG-INFO
+rvzip.egg-info/SOURCES.txt
+rvzip.egg-info/dependency_links.txt
+rvzip.egg-info/top_level.txt

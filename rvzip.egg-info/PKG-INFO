@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: rvzip
+Version: 0.0.1
+Summary: It is ZIP and UNZIP tool
+Home-page: https://github.com/ravikiranb36/rvzip.git
+Author: Ravikirana B
+Author-email: ravikiranb36@gmail.com
+License: UNKNOWN
+Description: This is tool to ZIP and UNZIP the files
+        
+        Features:\
+            * ZIP and UNZIP large files\
+            * Easy to use
+        
+        Developed by:\
+        RAVIKIRANA B\
+        Email: ravikiranb36@gmail.com\
+        Mob : 8722735675
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
