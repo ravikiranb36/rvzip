@@ -1,10 +1,10 @@
 import setuptools
 with open('README.md','r') as fh:
     long_description = fh.read()
-
+exec(open('rvzip/version.py').read())
 setuptools.setup(
     name = "rvzip",
-    version = "0.0.1",
+    version = 1.0,
     author="Ravikirana B",
     author_email="ravikiranb36@gmail.com",
     description="It is ZIP and UNZIP tool",
@@ -17,5 +17,5 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.8',
+    python_requires='>=3.8' ,
 )
